@@ -3,3 +3,5 @@ Zucker
 Äpfel
 Mehl
 Butter
+Zimt
+Peffer
